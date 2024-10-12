@@ -1,4 +1,4 @@
-# employee stress management system
+# Employee stress management system
 
 ## Overview
 
