@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **employee stress management system** aims to tackle the urgent mental health crisis in workplaces by providing innovative tools for employee support. By leveraging emotion recognition technology, AI-powered chatbots, and smartwatch API integration, we empower organizations to enhance employee well-being and productivity.
+The **Employee stress management system** aims to tackle the urgent mental health crisis in workplaces by providing innovative tools for employee support. By leveraging emotion recognition technology, AI-powered chatbots, and smartwatch API integration, we empower organizations to enhance employee well-being and productivity.
 
 ---
 
