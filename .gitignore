@@ -1,0 +1,5 @@
+requirements.txt
+env
+hr_notifications.log
+feedback.db
+.env
