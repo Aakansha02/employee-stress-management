@@ -13,9 +13,7 @@ The **Employee stress management system** aims to tackle the urgent mental healt
 3. [Unique Selling Proposition (USP)](#unique-selling-proposition-usp)
 4. [Features](#features)
 5. [Getting Started](#getting-started)
-6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
